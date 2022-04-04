@@ -6,6 +6,7 @@
 build
 ****/knn
 datasets/
+!datasets/.gitkeep
 docs/
 pvn3d/datasets/ycb/YCB_Video_Dataset
 pvn3d/datasets/linemod/Linemod_preprocessed
